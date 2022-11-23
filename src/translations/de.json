@@ -103,7 +103,7 @@
     "itemsAndMore": "{{items}} und {{count}} mehr",
     "labelRelationship": "{{label}} Relation",
     "latitude": "Breite",
-    "linkedTo": "Verlinkt zu <0>label</0>",
+    "linkedTo": "Verlinkt zu <0>{{label}}</0>",
     "longitude": "Längengrad",
     "newLabel": "{{label}} erstellen",
     "passwordsDoNotMatch": "Passwörter stimmen nicht überein.",
